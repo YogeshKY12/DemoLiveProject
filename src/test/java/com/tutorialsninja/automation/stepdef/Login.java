@@ -17,7 +17,7 @@ public class Login {
 	HeaderSection headerSection = new HeaderSection();
 	LoginPage loginpage = new LoginPage();
 	MyAccountPage myAccountPage = new MyAccountPage();
-    ForgotPasswordPage forgotPassword = new ForgotPasswordPage();
+    ForgotPasswordPage forgotPassword = new ForgotPasswordPage();	
 
 	@Given("^I navigate to account login page$")
 	public void i_navigate_to_account_login_page() {
