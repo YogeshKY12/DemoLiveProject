@@ -16,5 +16,10 @@ Feature:Search functinality scenario
      When  	I search for 	a product "Apple iphone"
      Then 	I should see a message informing 	"There is no product that matches the search criteria."   
      
+     
+     
+     
+
+     
 
  
